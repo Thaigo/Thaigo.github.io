@@ -1,0 +1,50 @@
+title: Stack Problems
+description: My Personal Stack Problems
+author: Thaigo Freitas
+github: https://github.com/Thaigo
+about: Web Developer. Focused in Ruby on Rails and Java
+disqus_shortname: 
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    
+    - icon: fa-twitter
+      link: "https://twitter.com/Thaigo_Freitas"       
+    - icon: fa-github
+      link: "https://github.com/Thaigo"
+
+share:
+  twitter_username: Thaigo_Freitas
+  
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: 100 Q&A em Java para Entrevista
+      url: /100Q&A/
+      
+
+url: "https://Thaigo.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+permalink: /:categories/:title
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
