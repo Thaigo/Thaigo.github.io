@@ -2,7 +2,7 @@
 layout: post
 title:  "Desenvolvendo uma Aplicação com Docker e Angular"
 date:   2018-03-04 00:50:00 -0300
-categories: [docker]
+categories: [docker, angular]
 ---
 
 **1.** Primeiro rode o comando no prompt de sua preferencia para instalçao do angular CLI
