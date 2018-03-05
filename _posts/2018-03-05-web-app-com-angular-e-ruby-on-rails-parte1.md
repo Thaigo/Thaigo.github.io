@@ -17,8 +17,12 @@ Para esse tutorial vamos utilizar em nossa máquina as recursos abaixo.
  - Node versão 9.6.x
  - Npm versão 5.7.x
 
-Para verificar sua versao do node e npm use o comando.
+Para verificar sua versao do node e npm use o comando no terminal
 
-![Node e Npm](https://github.com/Thaigo/Thaigo.github.io/blob/master/static/img/_posts/angular_rails/node_e_npm.png)
+```
+npm -v 
+```
 
-
+```
+node -v
+```
