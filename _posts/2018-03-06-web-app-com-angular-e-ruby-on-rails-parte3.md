@@ -2,6 +2,7 @@
 layout: post
 title:  "Web Application com Angular 5 e Ruby on Rails - Parte 3"
 date:   2018-03-06 02:50:00 -0300
+tags: rest, api, rails, angular, web
 categories: [rails, angular]
 ---
 
@@ -115,7 +116,7 @@ vamos aos testes, com [Postman](https://www.getpostman.com/apps) aberto vamos ad
 }
 ```
 
-Depois vamos clicar no botão **POST** e vamos ter o resultado como mostra a imagem abaixo, quando esse método é executado estamos chamando a operação salvar do nosso serviço REST, cadastre mais alguns registros antes de ir para o próximo passo.
+Depois vamos clicar no botão **POST** e vamos ter o resultado como mostra a imagem abaixo, quando esse método é executado estamos chamando a operação salvar do nosso serviço **REST**, cadastre mais alguns registros antes de ir para o próximo passo.
 
 ![Screenshot salvando](/static/img/app_angular_rails/salvando.png)
 
