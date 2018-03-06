@@ -150,3 +150,5 @@ Para selecionar um registro vamos passar o código na URL http://localhost:3000/
 Selecionando todos os registros vamos colocar a URL http://localhost:3000/products Seleciona o Metodo **GET** e clicar em **SEND** como mostra a imagem abaixo.
 
 ![Screenshot selecionaTodos](/static/img/app_angular_rails/SelecionaTodos.png)
+
+Enfim encerramos nossa parte do backend testando todo o nosso CRUD, na proxima parte do tutorial  vamos começar a criar nossa app-frontend com Angular 5 até a proxima.
