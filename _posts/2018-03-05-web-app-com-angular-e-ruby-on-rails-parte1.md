@@ -11,8 +11,8 @@ Nesse tutorial vamos criar uma aplicação usando Angular 5 e Ruby on Rails vers
 
 Para esse tutorial vamos utilizar em nossa máquina as recursos abaixo.
 
- - Docker
- - Postgres
+ - Angular 5
+ - Ruby on Rails 5.x.x
  - Visual Studio Code
  - Node versão 9.6.x
  - Npm versão 5.7.x
