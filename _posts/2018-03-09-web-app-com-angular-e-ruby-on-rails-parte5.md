@@ -51,7 +51,7 @@ npm install hammerjs --save
 
 ![Screenshot import_materialize](/static/img/app_angular_rails/import_materialize.png)
 
-**4.** Por fim adicione essa linha no header do **index.html**
+**5.** Por fim adicione essa linha no header do **index.html**
 
 ```html
 <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
