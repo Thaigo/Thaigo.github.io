@@ -37,6 +37,6 @@ Agora abra o navegador na e digite a url http://localhost:4200 e se você teve o
 
 ![Screenshot welcome](/static/img/app_angular_rails/welcome.png)
 
-Bom, nessa parte do nosso tutorial aprendemos a criar um projeto com Angular CLI, na próxima parte do nosso tutorial vamos criar os objetos necessários para acessar o nosso serviço REST, então até a próxima.
+Bom, nessa parte do nosso tutorial aprendemos a criar um projeto com Angular CLI, na próxima parte do nosso tutorial vamos instalar o Materialize CSS em nosso projeto, então até a próxima.
 
 
