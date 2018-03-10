@@ -147,6 +147,8 @@ import { ProductService } from './services/product.service';
 export class AppModule { }
 ```
 
+ - Nosso Projeto no [Visual Studio](https://code.visualstudio.com/) até o momento esta assim.
+
 ![Screenshot overview](/static/img/app_angular_rails/overview.png)
 
  - Pronto, nossa classe de acesso ao serviço esta pronta, na próxima parte vamos criar os nossos componentes com as views para a realização do CRUD, então até a próxima.
