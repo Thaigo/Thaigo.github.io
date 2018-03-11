@@ -166,7 +166,7 @@ export class ConsultaComponent implements OnInit {
 
   // Apaga o produto
   deleteProduct(products) {
-    if (confirm("Você tem certeza que quer deletar a questions " + products.title)) {
+    if (confirm("Você tem certeza que quer deletar o " + products.name)) {
       var index = this.products.indexOf(products);
       this.products.splice(index, 1);
  
