@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Application com Angular 5 e Ruby on Rails - Parte 5"
+title:  "Web Application com Angular 5 e Ruby on Rails - Parte 5: Materialize CSS"
 date:   2018-03-09 02:40:00 -0300
 tags: rest, api, rails, angular, web
 categories: [rails, angular]

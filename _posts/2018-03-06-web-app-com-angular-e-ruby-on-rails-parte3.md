@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Application com Angular 5 e Ruby on Rails - Parte 3"
+title:  "Web Application com Angular 5 e Ruby on Rails - Parte 3: Rest API"
 date:   2018-03-06 18:10:00 -0300
 tags: rest, api, rails, angular, web
 categories: [rails, angular]
