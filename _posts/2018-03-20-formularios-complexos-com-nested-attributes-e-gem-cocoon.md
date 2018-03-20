@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Formulários complexos com Nested Attributes e Gem Cocoon"
-date:   2018-03-20 01:41:00 -0300
+date:   2018-03-20 18:15:00 -0300
 tags: rails, form, cocoon, web, nested_attributes
 categories: [rails]
 ---
