@@ -158,7 +158,7 @@ rails test test/models/user_test.rb
 
  - ### Testando com Curl
 
-Vamos realizar o teste seu logar com usuario e senha
+Vamos realizar o teste sem colocar usuario e senha
 
 ```
 curl localhost:3000/page
