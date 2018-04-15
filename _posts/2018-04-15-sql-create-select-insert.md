@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "SQLite3: Create Insert e Select"
-date:   2018-04-15 01:30:00 -0300
-tags: rails, devise, cancancan, rolify, web
-categories: [rails]
+date:   2018-04-15 01:34:00 -0300
+tags: sql, create, insert, select, db
+categories: [sql]
 ---
 
  - ### Instalando SQlite3
