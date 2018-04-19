@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SQLite3: JOIN com Multiplas Tabelas"
-date:   2018-04-18 01:25:00 -0300
+date:   2018-04-19 02:35:00 -0300
 tags: sql, join, db
 categories: [sql]
 ---
